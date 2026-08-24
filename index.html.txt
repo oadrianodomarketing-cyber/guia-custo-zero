@@ -1,0 +1,188 @@
+<div class="progress-container">
+    <div id="progress-bar"></div>
+</div>
+<div class="progress-text-fixed" id="progress-percent">0% concluído</div>
+
+<header>
+    <p class="author">Adriano Valentim — Consultor de Marketing e Vendas</p>
+    <h1>Guia de Ações de Custo Zero para Negócios Locais</h1>
+    <p>7 ações práticas que todo empreendedor pode executar hoje para potencializar seu negócio — sem gastar nada.</p>
+    <div style="font-size: 12px; opacity: 0.7;">Atualizado em: 24 de agosto de 2026</div>
+</header>
+
+<main id="main-content">
+    <!-- Ação 1 -->
+    <section class="action-card">
+        <div class="action-header">
+            <div class="action-number">1</div>
+            <h2 class="action-title">📱 WhatsApp Business</h2>
+        </div>
+        <p class="action-desc">Transforme seu WhatsApp comum em uma ferramenta comercial profissional.</p>
+        <ul class="task-list">
+            <li class="task-item"><label class="checkbox-wrapper"><input type="checkbox" class="task-check"><span class="checkmark"></span></label><span class="task-text">Baixar e configurar o WhatsApp Business</span></li>
+            <li class="task-item"><label class="checkbox-wrapper"><input type="checkbox" class="task-check"><span class="checkmark"></span></label><span class="task-text">Configurar mensagem de auto-resposta (reduzir tempo de resposta para &lt;15min)</span></li>
+            <li class="task-item"><label class="checkbox-wrapper"><input type="checkbox" class="task-check"><span class="checkmark"></span></label><span class="task-text">Criar catálogo de produtos/serviços com preços visíveis</span></li>
+            <li class="task-item"><label class="checkbox-wrapper"><input type="checkbox" class="task-check"><span class="checkmark"></span></label><span class="task-text">Configurar etiquetas para segmentar clientes (novo, recorrente, inativo)</span></li>
+            <li class="task-item"><label class="checkbox-wrapper"><input type="checkbox" class="task-check"><span class="checkmark"></span></label><span class="task-text">Criar mensagem de saudação com horário de funcionamento</span></li>
+        </ul>
+    </section>
+
+    <!-- Ação 2 -->
+    <section class="action-card">
+        <div class="action-header">
+            <div class="action-number">2</div>
+            <h2 class="action-title">📍 Google Meu Negócio</h2>
+        </div>
+        <p class="action-desc">O Google é o maior canal gratuito de aquisição de clientes locais. Use-o ao máximo.</p>
+        <ul class="task-list">
+            <li class="task-item"><label class="checkbox-wrapper"><input type="checkbox" class="task-check"><span class="checkmark"></span></label><span class="task-text">Reivindicar ou criar sua ficha no Google Meu Negócio</span></li>
+            <li class="task-item"><label class="checkbox-wrapper"><input type="checkbox" class="task-check"><span class="checkmark"></span></label><span class="task-text">Adicionar mínimo 10 fotos atualizadas (ambiente, equipe, produtos)</span></li>
+            <li class="task-item"><label class="checkbox-wrapper"><input type="checkbox" class="task-check"><span class="checkmark"></span></label><span class="task-text">Responder a TODAS as avaliações em 24h</span></li>
+            <li class="task-item"><label class="checkbox-wrapper"><input type="checkbox" class="task-check"><span class="checkmark"></span></label><span class="task-text">Pedir avaliação no Google a cada cliente satisfeito</span></li>
+            <li class="task-item"><label class="checkbox-wrapper"><input type="checkbox" class="task-check"><span class="checkmark"></span></label><span class="task-text">Otimizar a descrição com palavras-chave locais</span></li>
+        </ul>
+    </section>
+
+    <!-- Ação 3 -->
+    <section class="action-card">
+        <div class="action-header">
+            <div class="action-number">3</div>
+            <h2 class="action-title">🔄 Reativação de Clientes Inativos</h2>
+        </div>
+        <p class="action-desc">Clientes que já compraram de você são a fonte mais barata de receita imediata.</p>
+        <ul class="task-list">
+            <li class="task-item"><label class="checkbox-wrapper"><input type="checkbox" class="task-check"><span class="checkmark"></span></label><span class="task-text">Listar contatos do WhatsApp que não compram há 60+ dias</span></li>
+            <li class="task-item"><label class="checkbox-wrapper"><input type="checkbox" class="task-check"><span class="checkmark"></span></label><span class="task-text">Enviar mensagem personalizada com condição especial</span></li>
+            <li class="task-item"><label class="checkbox-wrapper"><input type="checkbox" class="task-check"><span class="checkmark"></span></label><span class="task-text">Anotar quem respondeu e quem não respondeu</span></li>
+            <li class="task-item"><label class="checkbox-wrapper"><input type="checkbox" class="task-check"><span class="checkmark"></span></label><span class="task-text">Oferecer 15-20% off ou brinde para retornar</span></li>
+            <li class="task-item"><label class="checkbox-wrapper"><input type="checkbox" class="task-check"><span class="checkmark"></span></label><span class="task-text">Agendar follow-up com quem respondeu mas não voltou</span></li>
+        </ul>
+    </section>
+
+    <!-- Ação 4 -->
+    <section class="action-card">
+        <div class="action-header">
+            <div class="action-number">4</div>
+            <h2 class="action-title">📋 Redesenho de Combos e Upsell</h2>
+        </div>
+        <p class="action-desc">Aumente o ticket médio sem precisar de novos clientes.</p>
+        <ul class="task-list">
+            <li class="task-item"><label class="checkbox-wrapper"><input type="checkbox" class="task-check"><span class="checkmark"></span></label><span class="task-text">Listar todos os serviços/produtos atuais com preços</span></li>
+            <li class="task-item"><label class="checkbox-wrapper"><input type="checkbox" class="task-check"><span class="checkmark"></span></label><span class="task-text">Criar 3-4 combos com alto valor percebido</span></li>
+            <li class="task-item"><label class="checkbox-wrapper"><input type="checkbox" class="task-check"><span class="checkmark"></span></label><span class="task-text">Treinar a equipe para oferecer upsell em todo atendimento</span></li>
+            <li class="task-item"><label class="checkbox-wrapper"><input type="checkbox" class="task-check"><span class="checkmark"></span></label><span class="task-text">Criar um cardápio visual (Canva gratuito)</span></li>
+            <li class="task-item"><label class="checkbox-wrapper"><input type="checkbox" class="task-check"><span class="checkmark"></span></label><span class="task-text">Definir preço de pacote mensal para gerar recorrência</span></li>
+        </ul>
+    </section>
+
+    <!-- Ação 5 -->
+    <section class="action-card">
+        <div class="action-header">
+            <div class="action-number">5</div>
+            <h2 class="action-title">🎯 Programa de Fidelidade e Indicação</h2>
+        </div>
+        <p class="action-desc">Transforme clientes satisfeitos em uma máquina de indicação.</p>
+        <ul class="task-list">
+            <li class="task-item"><label class="checkbox-wrapper"><input type="checkbox" class="task-check"><span class="checkmark"></span></label><span class="task-text">Criar cartão de carimbo físico (5-10 serviços = 1 grátis)</span></li>
+            <li class="task-item"><label class="checkbox-wrapper"><input type="checkbox" class="task-check"><span class="checkmark"></span></label><span class="task-text">Definir regra de indicação ("indique um amigo e ganhe X")</span></li>
+            <li class="task-item"><label class="checkbox-wrapper"><input type="checkbox" class="task-check"><span class="checkmark"></span></label><span class="task-text">Imprimir cartões (custo: ~R$ 0,30/unidade)</span></li>
+            <li class="task-item"><label class="checkbox-wrapper"><input type="checkbox" class="task-check"><span class="checkmark"></span></label><span class="task-text">Treinar equipe para entregar o cartão a cada atendimento</span></li>
+            <li class="task-item"><label class="checkbox-wrapper"><input type="checkbox" class="task-check"><span class="checkmark"></span></label><span class="task-text">Controlar resgates e indicações em planilha simples</span></li>
+        </ul>
+    </section>
+
+    <!-- Ação 6 -->
+    <section class="action-card">
+        <div class="action-header">
+            <div class="action-number">6</div>
+            <h2 class="action-title">📣 Instagram Orgânico + Grupos</h2>
+        </div>
+        <p class="action-desc">Presença digital consistente sem pagar tráfego.</p>
+        <ul class="task-list">
+            <li class="task-item"><label class="checkbox-wrapper"><input type="checkbox" class="task-check"><span class="checkmark"></span></label><span class="task-text">Definir calendário semanal (3 posts: prova, dica, promo)</span></li>
+            <li class="task-item"><label class="checkbox-wrapper"><input type="checkbox" class="task-check"><span class="checkmark"></span></label><span class="task-text">Postar stories diários mostrando o trabalho real</span></li>
+            <li class="task-item"><label class="checkbox-wrapper"><input type="checkbox" class="task-check"><span class="checkmark"></span></label><span class="task-text">Entrar em 3-5 grupos de WhatsApp do bairro/região</span></li>
+            <li class="task-item"><label class="checkbox-wrapper"><input type="checkbox" class="task-check"><span class="checkmark"></span></label><span class="task-text">Oferecer condição exclusiva para o grupo (1x por mês)</span></li>
+            <li class="task-item"><label class="checkbox-wrapper"><input type="checkbox" class="task-check"><span class="checkmark"></span></label><span class="task-text">Fazer parceria com 3 comércios locais (troca de divulgação)</span></li>
+        </ul>
+    </section>
+
+    <!-- Ação 7 -->
+    <section class="action-card">
+        <div class="action-header">
+            <div class="action-number">7</div>
+            <h2 class="action-title">📊 Controle e Mensuração</h2>
+        </div>
+        <p class="action-desc">O que não se mede não se gerencia. Controle o mínimo desde o dia 1.</p>
+        <ul class="task-list">
+            <li class="task-item"><label class="checkbox-wrapper"><input type="checkbox" class="task-check"><span class="checkmark"></span></label><span class="task-text">Criar planilha simples (Google Sheets) para atendimentos</span></li>
+            <li class="task-item"><label class="checkbox-wrapper"><input type="checkbox" class="task-check"><span class="checkmark"></span></label><span class="task-text">Anotar: data, cliente, serviço, valor, novo/recorrente, origem</span></li>
+            <li class="task-item"><label class="checkbox-wrapper"><input type="checkbox" class="task-check"><span class="checkmark"></span></label><span class="task-text">Calcular ticket médio semanalmente</span></li>
+            <li class="task-item"><label class="checkbox-wrapper"><input type="checkbox" class="task-check"><span class="checkmark"></span></label><span class="task-text">Identificar clientes inativos mensalmente</span></li>
+            <li class="task-item"><label class="checkbox-wrapper"><input type="checkbox" class="task-check"><span class="checkmark"></span></label><span class="task-text">Acompanhar origem dos clientes (Google, indicação, etc)</span></li>
+        </ul>
+    </section>
+</main>
+
+<footer class="footer-cta">
+    <div class="footer-status" id="footer-status-text">Você completou 0 de 35 ações!</div>
+    <p>Quer ajuda para implementar essas ações no seu negócio?</p>
+    <a href="https://wa.me/seu-numero-aqui" class="cta-button">Agende um diagnóstico gratuito com Adriano Valentim</a>
+    <br>
+    <button class="reset-btn" id="reset-all">Desmarcar tudo e recomeçar</button>
+    <div class="copyright">© 2026 Adriano Valentim — Consultor de Marketing e Vendas</div>
+</footer>
+
+<script>
+    const checkboxes = document.querySelectorAll('.task-check');
+    const progressBar = document.getElementById('progress-bar');
+    const progressPercent = document.getElementById('progress-percent');
+    const footerStatus = document.getElementById('footer-status-text');
+    const resetButton = document.getElementById('reset-all');
+
+    function updateProgress() {
+        const total = checkboxes.length;
+        const checked = document.querySelectorAll('.task-check:checked').length;
+        const percentage = Math.round((checked / total) * 100);
+
+        progressBar.style.width = percentage + '%';
+        progressPercent.innerText = percentage + '% concluído';
+        footerStatus.innerText = `Você completou ${checked} de ${total} ações!`;
+
+        if (percentage === 100) {
+            progressBar.style.backgroundColor = 'var(--success)';
+        } else {
+            progressBar.style.backgroundColor = 'var(--primary-light)';
+        }
+
+        // Save to localStorage
+        const state = Array.from(checkboxes).map(cb => cb.checked);
+        localStorage.setItem('ebook_progress_state', JSON.stringify(state));
+    }
+
+    // Load from localStorage
+    function loadProgress() {
+        const savedState = localStorage.getItem('ebook_progress_state');
+        if (savedState) {
+            const state = JSON.parse(savedState);
+            checkboxes.forEach((cb, index) => {
+                cb.checked = state[index] || false;
+            });
+        }
+        updateProgress();
+    }
+
+    checkboxes.forEach(cb => {
+        cb.addEventListener('change', updateProgress);
+    });
+
+    resetButton.addEventListener('click', () => {
+        if (confirm('Deseja desmarcar todas as ações?')) {
+            checkboxes.forEach(cb => cb.checked = false);
+            updateProgress();
+        }
+    });
+
+    // Initialize
+    loadProgress();
+</script>
