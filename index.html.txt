@@ -127,7 +127,7 @@
 <footer class="footer-cta">
     <div class="footer-status" id="footer-status-text">Você completou 0 de 35 ações!</div>
     <p>Quer ajuda para implementar essas ações no seu negócio?</p>
-    <a href="https://wa.me/seu-numero-aqui" class="cta-button">Agende um diagnóstico gratuito com Adriano Valentim</a>
+    <a href="https://wa.me/5511995931995" class="cta-button">Agende um diagnóstico gratuito com Adriano Valentim</a>
     <br>
     <button class="reset-btn" id="reset-all">Desmarcar tudo e recomeçar</button>
     <div class="copyright">© 2026 Adriano Valentim — Consultor de Marketing e Vendas</div>
